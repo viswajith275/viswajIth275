@@ -154,9 +154,9 @@ From async FastAPI services to Go microservices — built to grow, fail graceful
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viswajith275&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=3FB950&text_color=8B949E&bg_color=0D1117&include_all_commits=true&count_private=true)](https://github.com/viswajith275)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=viswajith275&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=3FB950&text_color=8B949E&bg_color=0D1117&include_all_commits=true)](https://github.com/viswajith275)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viswajith275&layout=compact&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117&langs_count=6)](https://github.com/viswajith275)
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=viswajith275&layout=compact&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117&langs_count=6)](https://github.com/viswajith275)
 
 <br>
 
