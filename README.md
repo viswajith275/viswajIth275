@@ -1,17 +1,29 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&duration=2800&pause=4000&color=FFFFFF&vCenter=tru&width=700&height=70&lines=Viswajith+M+P)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=4000&color=8B949E&vCenter=true&width=700&height=30&lines=Aspiring+backend+developer+%C2%B7+python+%C2%B7+go+%C2%B7+rust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=4000&color=8B949E&vCenter=true&width=700&height=30&lines=Backend-focused+developer+%C2%B7+python+%C2%B7+go+%C2%B7+rust)](https://git.io/typing-svg)
 
 
 ### `// identity`
 ```bash
-$ viswajith --info
-
-▸ Focus        APIs · Sync Engines · Scheduling Systems · Data Layers
-▸ Languages    Python · Go · Rust (learning)
-▸ Philosophy   Clean contracts between services > pretty buttons
-▸ Currently    Leveling up React + ML for future fullstack apps
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  $ whoami                                                        │
+│                                                                  │
+│  Viswajith M P                                                   │
+│                                                                  │
+│  backend-focused developer interested in the systems underneath  │
+│  applications — APIs, data flow, synchronization, automation,    │
+│  scheduling and security.                                        │
+│                                                                  │
+│  philosophy                                                      │
+│  ─────────────────────────────────────────────────────────────   │
+│  clear contracts > unnecessary abstraction                       │
+│  predictable systems > clever systems                            │
+│  simplicity > complexity                                         │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
+
 ---
 
 ### `// links`
