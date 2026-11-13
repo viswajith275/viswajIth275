@@ -41,7 +41,7 @@
 ### `// toolkit`
   
 **Languages**<br><br>
-<img src="https://skillicons.dev/icons?i=python,go,js,rust,c,cpp,java,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,rust,js,c,cpp,java,ts&theme=dark" />
 <br><br>
 
 **Frameworks & runtime**<br><br>
