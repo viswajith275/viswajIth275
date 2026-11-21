@@ -23,15 +23,6 @@
 │  predictable systems    >  clever systems                           │
 │  simplicity             >  complexity                               │
 │                                                                     │
-│  ─────────────────────────────────────────────────────────────────  │
-│                                                                     │
-│  how it shows up                                                    │
-│                                                                     │
-│  → contracts first, implementation second                           │
-│  → explicit over implicit                                           │
-│  → every abstraction must justify its existence                     │
-│  → long-term clarity over short-term cleverness                     │
-│                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
